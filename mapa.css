@@ -1,0 +1,16 @@
+#map { 
+    display: flex;
+    height: 98vh; 
+
+}
+
+.info-legend{
+
+    background-color: white;
+    padding: 10px;
+    border-radius: 5px;
+    border: 1px solid #ccc;
+    margin: 10px;
+    z-index: 1000;
+
+}
