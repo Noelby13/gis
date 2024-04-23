@@ -14,3 +14,10 @@
     z-index: 1000;
 
 }
+.info-legend i {
+    width: 18px;
+    height: 18px;
+    display: inline-block;
+    margin-right: 8px;
+    border: 1px solid #000; /* Asegura visibilidad del borde */
+}
