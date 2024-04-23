@@ -20,4 +20,8 @@
     display: inline-block;
     margin-right: 8px;
     border: 1px solid #000; /* Asegura visibilidad del borde */
+    vertical-align: middle;  /* Alineación vertical con el texto */
+    margin-bottom: 4px;
+
 }
+
